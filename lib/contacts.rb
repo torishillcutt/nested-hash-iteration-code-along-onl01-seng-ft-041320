@@ -20,4 +20,5 @@ contacts["Freddy Mercury"].each do |key, value|
     key.delete("strawberry")
   end
 end
+contacts
 end
